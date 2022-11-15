@@ -1,0 +1,5 @@
+.env
+node_modules
+exports
+public\uploads
+docker-compose.yml
